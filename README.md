@@ -1,3 +1,9 @@
+devnet "0xd0a7c887efb6256b8510c08ada1108098ca6d21bbaf72ddb0be2664877a087de"
+
+
+<img width="1450" height="893" alt="Screenshot 2025-08-22 at 11 26 34 AM" src="https://github.com/user-attachments/assets/2933a730-0715-4b96-af3b-09308ba4886f" />
+
+
 Aptos Student Health Insurance Smart Contract
 
 A simple, proof-of-concept smart contract built on the Aptos blockchain to manage student health insurance plans. This contract allows students to create an insurance plan and enables authorized healthcare providers to submit claims against it.
