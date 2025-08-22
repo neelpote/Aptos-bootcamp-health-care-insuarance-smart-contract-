@@ -1,0 +1,16 @@
+[package]
+name = "student-health-insurance"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+MyModule = "0x47017e7ee84cd53c3efc9752ed2bfd2795322f9195891a37b4bf2fcd54522807"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
